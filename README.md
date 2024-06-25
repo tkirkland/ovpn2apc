@@ -1,0 +1,6 @@
+#  OVPN2APC.sh
+
+A simple WIP script to automate conversion of traditional OpenVPN files to
+files that can be imported directly into Sophos firewall that will then allow site-to-site connections...
+
+That's the plan...
